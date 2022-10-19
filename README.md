@@ -26,7 +26,7 @@ Vine Table
 <img width="669" alt="Screen Shot 2022-10-17 at 12 33 59 PM" src="https://user-images.githubusercontent.com/80330988/196392787-12b89f13-60e0-48dd-8f50-cd64a46e3dca.png">
 
 #Summary 
-The results of the analysis suggest a positivity bias towards the unpaid reviews in amazon vine program. Additional analysis are recommended to reveal other trends in dataset include the calculation of statitical distribution of the vine and non-vine reviews. 
+The results of the analysis suggest a bias towards the unpaid reviews in the amazon vine program. Additional analysis are recommended to reveal other trends in dataset include the calculation of statitical distribution of the vine and non-vine reviews. e.g Mean, median, IQR, SD
 
 The result of the analysis conducted 
 <img width="566" alt="Screen Shot 2022-10-18 at 7 39 23 AM" src="https://user-images.githubusercontent.com/80330988/196419559-6864ee18-8799-4a48-a5bc-04c9dc55c486.png">
